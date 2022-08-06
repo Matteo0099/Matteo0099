@@ -1,9 +1,6 @@
-![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Matteo Manià</h1>
 <h3 align="center">A passionate frontend developer & designer from Italy</h3>
-<img align="right" alt="Coding" width="320" src="https://devpunch.com/img/Dev-At-Work-Gif.jpg">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matteo0099&label=Profile%20views&color=0e75b6&style=flat" alt="matteo0099" /> </p>
+<img align="right" alt="Coding" width="1000" src="https://devpunch.com/img/Dev-At-Work-Gif.jpg">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matteo0099" alt="matteo0099" /></a> </p>
 
