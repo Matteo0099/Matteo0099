@@ -2,7 +2,11 @@
 <h3 align="center">A passionate frontend developer & designer from Italy</h3>
 <img align="right" alt="Coding" width="1000" src="https://devpunch.com/img/Dev-At-Work-Gif.jpg">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matteo0099" alt="matteo0099" /></a> </p>
+<!--<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=matteo0099" alt="matteo0099" />
+  </a> 
+</p>-->
 
 - 🔭 I’m currently working on **some projects**
 
