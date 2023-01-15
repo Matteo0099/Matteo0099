@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Matteo Manià</h1>
-<h3 align="center">A passionate frontend developer & designer from Italy</h3>
+<h1 align="left">Hi 👋, I'm Matteo Manià</h1>
+<h3 align="left">A passionate frontend developer & designer from Italy</h3>
 <!--<img align="right" alt="Coding" width="1000" src="https://devpunch.com/img/Dev-At-Work-Gif.jpg">-->
 
 <p align="left"> 
