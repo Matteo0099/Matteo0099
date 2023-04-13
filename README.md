@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with [AreaCrewWebsite](https://areacrewmonfalcone.it)
 
-- 👨‍💻 All of my projects are available at [https://matteomania.vercel.app/](https://matteomania.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://matteomania.netlify.app/](https://matteomania.netlify.app/)
 
 - 📫 How to reach me **matteomania09@gmail.com**
 
@@ -25,7 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/zippo107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="zippo107" height="30" width="40" /></a>
-<a href="https://instagram.com/itzmatteomania" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itzmatteomania" height="30" width="40" /></a>
+<a href="https://instagram.com/itz_matteomania" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_matteomania" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
