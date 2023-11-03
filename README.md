@@ -131,12 +131,6 @@ align="center" /></div>
 ---
 
 
-## Stats last year
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Matteo0099&layout=compact" align="center" />
-</div>
-
-
-
 <br/>  
 
 
