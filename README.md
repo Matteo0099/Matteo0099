@@ -121,10 +121,12 @@ In addition to my technical skills, I am also a strong communicator and like sol
 <br/>  
 
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+---
+
+## Github stats
+
+<img align="left" alt="Matteo Github Stats" src="https://github-readme-stats.vercel.app/api?username=Matteo0099&show_icons=true&hide_border=true" />
+
 
 <br/>  
 
