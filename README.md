@@ -124,7 +124,7 @@ align="center" /></div>
 
 
 ## Top Languages
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matteo0099&hide_progress=true" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matteo0099&&layout=donut" align="center" /></div>
 
 
 
